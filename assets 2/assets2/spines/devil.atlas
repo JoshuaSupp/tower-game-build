@@ -1,0 +1,56 @@
+devil.webp
+	size: 512, 512
+	filter: Linear, Linear
+1
+	bounds: 205, 441, 130, 69
+15
+	bounds: 205, 441, 130, 69
+10
+	bounds: 310, 350, 17, 26
+10a
+	bounds: 441, 439, 17, 26
+	rotate: 90
+11
+	bounds: 268, 260, 26, 17
+	rotate: 90
+11a
+	bounds: 310, 322, 26, 17
+	rotate: 90
+12
+	bounds: 441, 458, 60, 52
+13
+	bounds: 132, 84, 54, 47
+14
+	bounds: 2, 2, 70, 48
+	rotate: 90
+16
+	bounds: 205, 378, 122, 61
+18
+	bounds: 2, 133, 189, 177
+19
+	bounds: 2, 312, 201, 198
+2
+	bounds: 193, 194, 116, 45
+	rotate: 90
+3
+	bounds: 2, 74, 128, 57
+4
+	bounds: 52, 7, 48, 24
+5
+	bounds: 268, 288, 22, 22
+6
+	bounds: 240, 210, 22, 23
+7
+	bounds: 52, 33, 63, 39
+8
+	bounds: 193, 134, 58, 35
+	rotate: 90
+9
+	bounds: 240, 235, 75, 26
+	rotate: 90
+Group 1
+	bounds: 337, 436, 74, 102
+	rotate: 90
+Group 2
+	bounds: 205, 312, 64, 103
+	rotate: 90
